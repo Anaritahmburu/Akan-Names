@@ -23,7 +23,7 @@ In Ghana, people name their children after the day of the week they were born.Th
   * Bootstrap
 
   ##LICENSE
-  ***
+  *MIT license*
 
   ##COPYRIGHT
   Copyright (c) 2020 Anaritah Mburu
