@@ -11,7 +11,7 @@
 # AKAN NAMING SYSTEM
 ## By **Anaritah Mburu**
 
-You can visit the site directly by clicking here: http://anaritahmburu.io/Akan-names/
+You can visit the site directly by clicking here: https://anaritahmburu.github.io/Akan-names/
 
 
 ##DESCRIPTION
